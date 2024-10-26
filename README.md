@@ -74,11 +74,3 @@ A detailed presentation is included to showcase the project, its objectives, met
 
 This project is licensed under the MIT License. 
 
-**Additional Notes:**
-
-* Consider adding specific examples of insights gained from the dashboards.
-* Use clear and concise language to explain the findings.
-* Include screenshots of the dashboards to provide visual context.
-* If you have any code snippets or scripts, include them in the repository and reference them in the README.
-
-**By following these guidelines, you can create a comprehensive and informative README file for your P522 Manufacturing Analysis project.**
